@@ -5,7 +5,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 ## Problem Sets
 
 <details>
-<summary style="font-size: 1.2em">MicroSoft (15/15)</summary>
+<summary style="font-size: 1.2em">Microsoft (15/15)</summary>
 
 Sr  | [Problems](./Microsoft/README.md)                                                                                     | TryIt                                                                                                                                     | Status
 ----|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|---------
