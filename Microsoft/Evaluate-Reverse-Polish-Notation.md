@@ -60,4 +60,5 @@ class Solution {
 ```
 
 ### Accepted
-[![image](https://user-images.githubusercontent.com/44930179/147881244-d5c718f7-7c9d-4858-9b6d-871349818462.png)](https://leetcode.com/submissions/detail/868886687/)
+[![image](https://user-images.githubusercontent.com/98543049/210163286-25ca407f-a20d-4408-9901-c7d3dd179d7d.png)
+](https://leetcode.com/submissions/detail/868886687/)
