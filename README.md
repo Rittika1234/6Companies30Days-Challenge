@@ -14,6 +14,6 @@ Sr  | [Problems](./Microsoft/README.md)                                         
 3   | [ Bulls and Cows](./Microsoft/Bulls-and-Cows.md)                                                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/bulls-and-cows/)                                                        | ✅
 4   | [ Rotate Function](./Microsoft/Rotate-Function.md)                                                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/rotate-function/)                                                        | ✅
 5   | [ Largest Divisible Subset](./Microsoft/Largest-Divisible-Subset.md)                                                          | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/largest-divisible-subset/)                                                        | ✅
-3   | [ Bulls and Cows](./Microsoft/Cows.md)                                                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/bulls-and-cows/)                                                        | ✅
+6   | [ Perfect Rectangle](./Microsoft/Perfect-Rectangle.md)                                                                      | [![Problem Link](./assets/lc.svg)](https://leetcode.com/problems/perfect-rectangle/)                                                        | ✅
 
 </details>
