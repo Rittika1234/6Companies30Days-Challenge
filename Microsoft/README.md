@@ -7,3 +7,4 @@
 - [Bulls and Cows](./Bulls-and-Cows.md) 
 - [Rotate Function](./Rotate-Function.md)
 - [Largest Divisible Subset](./Largest-Divisible-Subset.md)
+- [Perfect Rectangle](./Perfect-Rectangle.md)
