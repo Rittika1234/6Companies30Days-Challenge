@@ -3,7 +3,6 @@
 [![Problem Link](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/)
 
 
-
 ### Solution
 ```java
 class Solution {
