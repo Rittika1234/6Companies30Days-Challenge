@@ -21,6 +21,7 @@ Explanation: Bulls are connected with a '|' and cows are underlined:
   |
 "7810"
 ```
+
 ### Example 2
 ```
 Input: secret = "1123", guess = "0111"
