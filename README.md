@@ -5,7 +5,7 @@ In this repo I am uploading my solutions for [6Companies30Days Challenge](https:
 ## Microsoft
 
 ### Solved Problems
-1. [Evaluate Reverse Polish Notation](./Evaluate-Reverse-Polish-Notation.md)
+1. [Evaluate Reverse Polish Notation](././Evaluate-Reverse-Polish-Notation.md)
 
 2. [Combination Sum III](./Combination-Sum-III.md)
 
