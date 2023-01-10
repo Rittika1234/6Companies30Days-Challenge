@@ -19,3 +19,15 @@
 8. [Maximum Points in an Archery Competition](./Q8.Maximum-Points-in-an-Archery-Competition.md)
 
 9. [IPO](./Q9.IPO.md)
+
+10. [Number of People Aware of a Secret](./Q10.Number-of-People-Aware-of-a-Secret.md)
+
+11. [Invalid Transactions](./Q11.Invalid-Transactions.md)
+
+12. [All Elements in Two Binary Search Trees](./Q12.All-Elements-in-Two-Binary-Search-Trees.md)
+
+13. [Get Biggest Three Rhombus Sums in a Grid](./Q13.get-biggest-three-rhombus-sums-in-a-grid.md)
+
+14. [Count Nice Pairs in an Array](./Q14.count-nice-pairs-in-an-array.md)
+
+15. [Maximum Good People Based on Statements](./Q15.maximum-good-people-based-on-statements.md)
