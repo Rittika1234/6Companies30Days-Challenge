@@ -13,3 +13,9 @@
 5. [Non-negative Integers without Consecutive Ones](./Q5.non-negative-integers-without-consecutive-ones.md)
 
 6. [Knight Probability in Chessboard](./Q6.knight-probability-in-chessboard.md)
+
+7. [Number of Matching Subsequences](./Q7.number-of-matching-subsequences.md)
+
+8. [Minimum Genetic Mutation](./Q8.minimum-genetic-mutation.md)
+
+9. [Count Nodes Equal to Average of Subtree](./Q9.count-nodes-equal-to-average-of-subtree.md)
