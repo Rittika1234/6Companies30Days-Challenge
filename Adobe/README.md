@@ -19,3 +19,9 @@
 8. [Minimum Genetic Mutation](./Q8.minimum-genetic-mutation.md)
 
 9. [Count Nodes Equal to Average of Subtree](./Q9.count-nodes-equal-to-average-of-subtree.md)
+
+10. [Maximum Matrix Sum](./Q10.maximum-matrix-sum.md)
+
+11. [Stock Price Fluctuation](./Q11.stock-price-fluctuation.md)
+
+12. [Shortest Unsorted Continuous Subarray](./Q12.shortest-unsorted-continuous-subarray.md)
