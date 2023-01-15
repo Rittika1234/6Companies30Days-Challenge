@@ -25,3 +25,9 @@
 11. [Stock Price Fluctuation](./Q11.stock-price-fluctuation.md)
 
 12. [Shortest Unsorted Continuous Subarray](./Q12.shortest-unsorted-continuous-subarray.md)
+
+13. [Dungeon Game](./Q13.dungeon-game.md)
+
+14. [Number of People Aware of a Secret](./Q14.number-of-people-aware-of-a-secret.md)
+
+15. [Query Kth Smallest Trimmed Number](./Q15.query-kth-smallest-trimmed-number.md)
