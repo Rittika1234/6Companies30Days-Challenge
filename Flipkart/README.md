@@ -18,7 +18,7 @@
 
 8. [Closest Prime Numbers in Range](./Q8.closest-prime-numbers-in-range.md)
 
-9. [Top K Frequent Words](./Q9.Top K Frequent Words.md)
+9. [Top K Frequent Words](./Q9.top-k-frequent-words.md)
 
 10. [Distant Barcodes](./Q10.distant-barcodes.md)
 
